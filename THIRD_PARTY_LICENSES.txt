@@ -222,3 +222,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+=== ISO Coated v2 300% (ECI) ===
+
+isocoated-v2-300.icc ist das Profil "ISOcoated_v2_300_eci.icc" der European Color Initiative
+(www.eci.org). Die ECI stellt ihre Offset-Profile zur freien Verwendung, Einbettung und
+Weitergabe bereit.
+
+print-isocoated-v2-300.bin enthält daraus vorberechnete Farbtabellen (sRGB und Display P3 nach
+CMYK, Softproof, Farbumfang), erzeugt mit LittleCMS (MIT) über Pillow. Der LittleCMS-Code selbst
+ist nicht Teil dieser Auslieferung.
